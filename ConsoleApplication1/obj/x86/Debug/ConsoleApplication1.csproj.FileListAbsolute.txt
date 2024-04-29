@@ -1,0 +1,4 @@
+D:\2-LPOO I\Pruebas\pruebas_LPOO1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\2-LPOO I\Pruebas\pruebas_LPOO1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\2-LPOO I\Pruebas\pruebas_LPOO1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\2-LPOO I\Pruebas\pruebas_LPOO1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
